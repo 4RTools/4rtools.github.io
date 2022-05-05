@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/4RTools/static/css/main.073c9b0a.css",
+    "main.js": "/4RTools/static/js/main.77d3cf6b.js",
+    "static/js/787.9f9fdde0.chunk.js": "/4RTools/static/js/787.9f9fdde0.chunk.js",
+    "static/media/logo.svg": "/4RTools/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/4RTools/index.html",
+    "main.073c9b0a.css.map": "/4RTools/static/css/main.073c9b0a.css.map",
+    "main.77d3cf6b.js.map": "/4RTools/static/js/main.77d3cf6b.js.map",
+    "787.9f9fdde0.chunk.js.map": "/4RTools/static/js/787.9f9fdde0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.77d3cf6b.js"
+  ]
+}
